@@ -3,11 +3,7 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#75](https://github.com/natterstefan/nextjs-template/issues/75) in [IsaacWeiser/nextjs-template](https://github.com/IsaacWeiser/nextjs-template)
-2. ❗️ Opened issue [#617](https://github.com/s-yadav/react-number-format/issues/617) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-3. 🎉 Merged PR [#49](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/49) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-4. 🗣 Commented on [#6861](https://github.com/tinymce/tinymce/issues/6861) in [tinymce/tinymce](https://github.com/tinymce/tinymce)
-5. 🎉 Merged PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
