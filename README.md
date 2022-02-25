@@ -1,10 +1,5 @@
 ![Profile-readme-banner](https://github.com/IsaacWeiser/IsaacWeiser/blob/main/github-readme-banner.png?raw=true)
 
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
 
