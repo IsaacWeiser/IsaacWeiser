@@ -12,7 +12,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/IsaacWeiser/IsaacWeiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWeiser&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
