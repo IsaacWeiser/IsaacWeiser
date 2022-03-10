@@ -1,6 +1,6 @@
 ![Profile-readme-banner](https://github.com/IsaacWeiser/IsaacWeiser/blob/main/github-readme-banner.png?raw=true)
 
-### 👨‍💻 &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me:
 
 ## &#x1f4c8; My GitHub Stats
 
