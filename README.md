@@ -2,7 +2,7 @@
 <p align="center" width="100%">
 <a href="https://www.linkedin.com/in/isaac-weiser"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+
 
 ## 👨‍💻 &nbsp;About Me:
 
@@ -11,7 +11,7 @@ I am a software developer with my primary experience being in JavaScript, React,
 
 
 CURRENTLY OPEN TO WORK OPPOURTUNITIES!
-
+---
 ## 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ CURRENTLY OPEN TO WORK OPPOURTUNITIES!
   
 </p>
 
-
+---
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/IsaacWeiser/IsaacWeiser">
