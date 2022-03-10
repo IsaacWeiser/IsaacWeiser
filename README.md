@@ -6,12 +6,9 @@
 
 # 👨‍💻 &nbsp;About Me:
 
-Hi, I am Isaac.
-I am a software developer with my primary experience being in JavaScript, React, C#, and .Net.
+<p>Hi, I am Isaac.</p>
+<p>I am a software developer with my primary experience being in JavaScript, React, C#, and .Net.</p>
 
-
-CURRENTLY OPEN TO WORK OPPOURTUNITIES!
---
 
 # 🛠 &nbsp;Languages and Tools :
 
@@ -36,7 +33,9 @@ CURRENTLY OPEN TO WORK OPPOURTUNITIES!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacWeiser&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="IsaacWeiser's GitHub Stats" />
 </a>
 
-
+CURRENTLY OPEN TO WORK OPPOURTUNITIES!
+--
+<p>Check me out here:</p>
 <p align="center" width="100%">
 <a href="https://www.linkedin.com/in/isaac-weiser"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
