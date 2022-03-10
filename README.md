@@ -4,7 +4,7 @@
 </p>
 
 
-## 👨‍💻 &nbsp;About Me:
+# 👨‍💻 &nbsp;About Me:
 
 Hi, I am Isaac.
 I am a software developer with my primary experience being in JavaScript, React, C#, and .Net.
