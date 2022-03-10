@@ -11,6 +11,7 @@ I am a software developer with my primary experience being in JavaScript, React,
 
 
 CURRENTLY OPEN TO WORK OPPOURTUNITIES!
+
 ---
 ## 🛠 &nbsp;Languages and Tools :
 <p>
