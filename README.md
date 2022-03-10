@@ -35,8 +35,8 @@
 
 CURRENTLY OPEN TO WORK OPPOURTUNITIES!
 --
-<p>Check me out here:</p>
-<p align="center" style="float:right;">
+<p></p>
+<p align="center" style="float:right;">Check me out here:
 <a href="https://www.linkedin.com/in/isaac-weiser"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
