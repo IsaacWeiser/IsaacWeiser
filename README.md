@@ -11,8 +11,8 @@ I am a software developer with my primary experience being in JavaScript, React,
 
 
 CURRENTLY OPEN TO WORK OPPOURTUNITIES!
+--
 
----
 ## 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -25,7 +25,7 @@ CURRENTLY OPEN TO WORK OPPOURTUNITIES!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt="DotNet" width="40" height="40" />&nbsp;
 </p>
 
----
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/IsaacWeiser/IsaacWeiser">
