@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacWeiser&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="IsaacWeiser's GitHub Stats" />
 </a>
 
-CURRENTLY OPEN TO WORK OPPOURTUNITIES!
+CURRENTLY OPEN TO WORK OPPORTUNITIES!
 --
 <p align="center">Check me out here: </p>
 <p align="center" style="float:right;">    
