@@ -21,7 +21,6 @@ CURRENTLY OPEN TO WORK OPPOURTUNITIES!
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt="DotNet" width="40" height="40" />&nbsp;
-  
 </p>
 
 ---
@@ -38,5 +37,7 @@ CURRENTLY OPEN TO WORK OPPOURTUNITIES!
 
 [1]: https://www.linkedin.com/in/isaac-weiser
 
-
+<p align="center" width="100%">
+<a href="https://www.linkedin.com/in/isaac-weiser"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
