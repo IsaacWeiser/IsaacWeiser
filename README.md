@@ -1,6 +1,16 @@
 ![Profile-readme-banner](https://github.com/IsaacWeiser/IsaacWeiser/blob/main/github-readme-banner.png?raw=true)
+<p align="center" width="100%">
+<a href="https://www.linkedin.com/in/isaac-weiser"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 ## 👨‍💻 &nbsp;About Me:
+
+Hi, I am Isaac.
+I am a software developer with my primary experience being in JavaScript, React, C#, and .Net.
+
+
+CURRENTLY OPEN TO WORK OPPOURTUNITIES!
 
 ## 🛠 &nbsp;Languages and Tools :
 <p>
