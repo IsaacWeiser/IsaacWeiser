@@ -7,7 +7,7 @@
 # 👨‍💻 &nbsp;About Me:
 
 <p>Hi, I am Isaac. 👋</p>
-<p>I have a love for HBO documentaries 📽️, tennis 🎾, and video games 🎮. When it comes to those last two things, like certain movies, I am so bad I am good! My superpower 🦸‍♂️ is being able to see the good in any situation! Graduated from college in 2020, had few opportunities, but had gained a lot of perspective. This time inspired me to become a software developer. Every obstacle is an opportunity!</p>
+<p>I have a love for HBO documentaries 📽️, tennis 🎾, and video games 🎮. When it comes to those last two things, like certain movies, I am so bad I am good! My superpower 🦸‍♂️ is being able to see the good in any situation! Graduated from college in 2020, had few opportunities, but gained a lot of perspective. This time inspired me to become a software developer. Every obstacle is an opportunity!</p>
 
 <p>I am a software developer with my primary experience being in JavaScript, React, C#, and .Net.</p>
 
